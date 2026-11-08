@@ -26,6 +26,17 @@
     }
   ],
   "downloads": {
+    "xmrw6": {
+      "version": "0.0.1",
+      "file_name": "downloads/Cat Court RW6.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
+        }
+      ]
+    },
     "xmb10": {
       "version": "0.0.0",
       "file_name": "downloads/Cat Court.face",
@@ -54,11 +65,6 @@
     "xmb9p": {
       "version": "0.0.0",
       "file_name": "downloads/Cat Court Pro.face",
-      "versionCode": 0
-    },
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/Cat Court RW6.face",
       "versionCode": 0
     }
   },
